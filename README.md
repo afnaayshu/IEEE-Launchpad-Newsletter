@@ -1,7 +1,7 @@
 
 # IEEE Launchpad Newsletter
 
-![IEEE Launchpad](image-link-here)
+![IEEE Launchpad](https://launchpadkerala.org/assets/img/launchpadkerala.svg)
 
 Welcome to the IEEE Launchpad Newsletter repository! This repository contains the HTML and CSS files for the IEEE Launchpad Kerala Newsletter, a dynamic platform that brings together talented individuals and innovative companies in the vibrant fields of technology and engineering.
 
